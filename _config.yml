@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://blog.rubycommunitycollege.com
-title: Ruby Community College Developer Blog
-subtitle: The Faculty Lounge 
+title: The Faculty Lounge
+subtitle: Ruby Community College Developer Blog
 author: Faculty Members
 simple_search: http://google.com/search
 description: Members of the Faculty of the Ruby Community College project write articles about their experience developing the Ruby on Rails project that aims to be an application to assist other Ruby programmers to become better Rubists.
