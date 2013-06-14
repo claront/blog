@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://follow.claront.com
-title: Follow Claron
-subtitle: A Journey of One Thousand Miles
-author: Claron Twitchell
+url: http://blog.rubycommunitycollege.com
+title: The Faculty Lounge
+subtitle: Ruby Community College Developer Blog
+author: Faculty Members
 simple_search: http://google.com/search
 description: Members of the Faculty of the Ruby Community College project write articles about their experience developing the Ruby on Rails project that aims to be an application to assist other Ruby programmers to become better Rubists.
 
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-# disqus_short_name: thefacultylounge
-# disqus_show_comment_count: false
+disqus_short_name: thefacultylounge
+disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id:

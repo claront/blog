@@ -4,9 +4,9 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "claront@follow.claront.com"
+ssh_user       = "rubytbird@blog.rubycommunitycollege.com"
 ssh_port       = "22"
-document_root  = "~/follow.claront.com/public/"
+document_root  = "~/www/blog.rubycommunitycollege.com/public/"
 rsync_delete   = true
 deploy_default = "rsync"
 

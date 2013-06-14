@@ -1,3 +1,6 @@
 [submodule ".themes/murky-mussels"]
 	path = .themes/murky-mussels
 	url = git://github.com/octopress-themes/murky-mussels.git
+[submodule ".themes/light"]
+	path = .themes/light
+	url = git://github.com/octothemes/classic-light.git
