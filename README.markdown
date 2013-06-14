@@ -1,6 +1,7 @@
-## The Faculty Lounge
+## Thousand Mile Walk
+# Claron Honors the Refugees
 
-It's the place where the people who make Ruby Community College products hang out and blog about their development battles.  Win lose or draw, it's a way to keep track of what's going on through out the progress we collectively make together!
+Follow Claron as he walks from Salt Lake City, Utah, USA to Kansas City, Missouri, USA to raise money to help the refugees returning to South Sudan to build new lives and a new nation.
 
 
 
