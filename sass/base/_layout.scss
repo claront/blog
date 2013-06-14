@@ -15,6 +15,8 @@ $sidebar-width-wide: 300px !default;
 $indented-lists: false !default;
 
 $header-font-size: 1em !default;
+$header-padding-top: 1.5em !default;
+$header-padding-bottom: 1.5em !default;
 
 .group { @include pie-clearfix; }
 
@@ -41,12 +43,12 @@ $header-font-size: 1em !default;
   }
 }
 
-#body {
+body {
   -webkit-text-size-adjust: none;
   max-width: $max-width;
   position: relative;
   margin: 0 auto;
-  > footer, #content > article, #content > div > article, #content > div > section {
+  > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
     @extend .group;
     padding-left: $pad-min;
     padding-right: $pad-min;
@@ -80,14 +82,11 @@ $header-font-size: 1em !default;
       margin-right: $pad-wide;
     }
   }
-}
-
-#header > header {
-  font-size: $header-font-size;
-}
-
-#header-container {
-  background: $header-bg;
+  > header {
+    font-size: $header-font-size;
+    padding-top: $header-padding-top;
+    padding-bottom: $header-padding-bottom;
+  }
 }
 
 #content {
@@ -114,7 +113,7 @@ aside.sidebar {
 
 .toggle-sidebar { &, .no-sidebar & { display: none; }}
 
-#body.sidebar-footer {
+body.sidebar-footer {
   @media only screen and (min-width: 750px) {
     aside.sidebar{ @include collapse-sidebar; }
   }
@@ -123,7 +122,7 @@ aside.sidebar {
 }
 
 @media only screen and (min-width: 550px) {
-  body > #header > header { font-size: $header-font-size; }
+  body > header { font-size: $header-font-size; }
 }
 @media only screen and (min-width: 750px) {
   aside.sidebar { @include collapse-sidebar; }
@@ -132,8 +131,8 @@ aside.sidebar {
   @extend .group;
 }
 @media only screen and (min-width: 768px) {
-  #body { -webkit-text-size-adjust: auto; }
-  body > #header > header { font-size: $header-font-size * 1.2; }
+  body { -webkit-text-size-adjust: auto; }
+  body > header { font-size: $header-font-size * 1.2; }
   #main {
     padding: 0;
     margin: 0 auto;
@@ -168,7 +167,7 @@ aside.sidebar {
 }
 
 @media only screen and (min-width: 992px) {
-  body > #header > header { font-size: $header-font-size * 1.3; }
+  body > header { font-size: $header-font-size * 1.3; }
   #content { margin-right: $sidebar-width-wide; }
   #content {
     > div, > article {
@@ -190,3 +189,4 @@ aside.sidebar {
     ul, ol { margin-left: 0; }
   }
 }
+

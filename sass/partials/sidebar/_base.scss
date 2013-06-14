@@ -65,7 +65,6 @@ aside.sidebar {
     color: mix($text-color-light, $sidebar-bg);
     width: 9px;
     cursor: pointer;
-    border-left: 1px solid $sidebar-border;
     &:hover {
       background: mix($sidebar-border, $sidebar-bg);
       @include background(linear-gradient(left, rgba($sidebar-border, .5), rgba($sidebar-border, 0)));
