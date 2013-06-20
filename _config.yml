@@ -7,7 +7,7 @@ title: Thousand Mile Walk
 subtitle: Claron Honors the Refugees
 author: Claron Twitchell
 simple_search: http://google.com/search
-description: Members of the Faculty of the Ruby Community College project write articles about their experience developing the Ruby on Rails project that aims to be an application to assist other Ruby programmers to become better Rubists.
+description: There seems to always be plenty of armed conflicts in the world.  People run for their lives, many times running with not much more than the clothes they had on when they had to start running.  This blog, follow.claront.com, titled "Thousand Mile Walk, Claron Honors the Refugees" will talk about a walk which I am doing as a fund raiser to help some refugees.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: dean@rubycommunitycollege.com
+email: claront@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
