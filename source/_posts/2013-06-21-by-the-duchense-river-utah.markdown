@@ -11,7 +11,7 @@ I have had a great time having my 13 year-old grandson, Trey, along the last thr
 
 We hiked over the summit at Wolf Creek Pass today, elevation 9485 feet.  That is about 5000 feet above the elevation of my starting point in Salt Lake City.  It is bit of work pushing the 100 pound cart and myself up miles of 8 percent grades.
 
-We happened upon an interesting camping site yesterday afternoon.  The sign on the main road said, "Memorial Monument."  Since, we were in a National Forest and the area has no restrictions on where you can camp, we turned down the short road to a vacant parking lot.  We found a flat peice of grassy ground that looked perfect for pitching our tent.  
+{% img left /images/goto_monument.png 240 320 'Masashi Goto Monument' %}We happened upon an interesting camping site yesterday afternoon.  The sign on the main road said, "Memorial Monument."  Since, we were in a National Forest and the area has no restrictions on where you can camp, we turned down the short road to a vacant parking lot.  We found a flat peice of grassy ground that looked perfect for pitching our tent.  
 
 After we picked the spot for our tent, we went over and read the inscription on the granite monument.  The monument had been erected by the Janpanese Association of Utah to memorialize [Masashi Goto](http://historytogo.utah.gov/salt_lake_tribune/in_another_time/103193.html) who had crashed near here on July 4, 1929.  It appears that he was on something like an around the world flight and died in the crash.  
 
