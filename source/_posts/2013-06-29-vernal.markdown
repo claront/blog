@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Vernal"
+date: 2013-06-29 16:16
+comments: true
+categories: mormon 
+---
+The [Vernal Temple](http://www.ldschurchtemples.com/vernal/) is a prominent landmark in Vernal, Utah.
+
+{% img center /images/vernal_temple.png 640 442 'Vernal Temple' 'Vernal Utah Temple of The Church of Jesus Christ of Latter-day Saints' %}
+
+My grandson Trey has rejoined me for the walk for 5 days and is pictured in the photo with my jogger stroller full of my equipment.  It is fun having him along.  We walked from Roosevelt, Utah to LaPoint, Utah for 19 miles Thursday.  The temperatures reached more than 95 degrees the last couple of days which is close to record breaking hot for around here.  We walked from 6:30PM to 11:30PM going from LaPoint to Vernal, Utah to avoid the heat of the day.  We put in 15 miles Friday.
