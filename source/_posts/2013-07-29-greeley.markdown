@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Greeley"
+date: 2013-07-29 08:46
+comments: true
+categories: farmland colorado greeley
+---
+Irrigating Corn
+
+{% img left /images/irrigating_corn.png 240 320 'Irrigating Corn' 'Irrigating Corn near Greeley, Colorado' %}There is a lot of beautiful farmland around Greeley, Colorado.  It seems like most of the farming uses irrigation.  One method of irrigation is show in the picture.
+
+I am on the plains now.  The mountains are behind me.  A lot of nice people in Greeley.  I got a haircut in Greeley and when I went to pay, the stylist said that the lady she was doing before me paid for my haircut.  What a sweet lady.  Sometimes looking like a homeless person has its benefits.  I spent a couple of extra days in Greeley catching up on my blog and resting my feet.
