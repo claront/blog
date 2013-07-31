@@ -17,6 +17,6 @@ Sponsor me on my 1000 mile walk with a penny or more per mile by clicking the [D
 
 I live with my wife (except for the three months of the walk) in Salt Lake City, Utah.  We have three children who have brought us eleven grandchildren.
 
-Professionally, I am a software developer.  My current passion is Ruby on Rails.
+Professionally, I am a software developer.  My current passion is Ruby on Rails.  Check out my post [Technology on the Road](./blog/2013/07/31/technology-on-the-road/) to see what I am using on the walk.
 
 The best way to reach me is by email at <claront@gmail.com>.
