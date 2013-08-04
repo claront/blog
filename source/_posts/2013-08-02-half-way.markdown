@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Half-way"
+date: 2013-08-02 09:24
+comments: true
+categories: half-way akron county-fair
+---
+Claron Celebrating Half-way
+
+{% img left /images/claron_half_way.png 320 260 'Claron Half-way' 'Claron Half-way eight miles east of Brush, Colorado' %}Hoooaaa!!!  I am half-way from Salt Lake City, Utah to Independence, Missouri (Kansas City).  I knew that I was getting close, so I used the "Walk" button on Google Maps and it came out that half-way is eight miles east of Brush, Colorado.  I added the miles to the first mile maker that I saw and the magic mile marker is "180."  I feel blessed to have made it this far, 540+ miles.  I started out saying that the 1083 mile walk would take me about three months.  Achieving half-way on Thursday, August 1, 2013, is six-and-on-half weeks of the thirteen weeks in three months, since I started on Monday, June 17, 2013.  Shortly after I took the picture of the half-way celebration, I got a good dose of rain and made it to Akron, Colorado about 10:30PM.  About 24 miles for Thursday.
+
+Pavilion at Washington County Fairgrounds
+
+{% img left /images/fairgrounds_pavilion.png 640 186 'Claron Half-way' 'Pavilion at Washington County Fairgrounds, Akron, Colorado' %}It was fun walking into Akron by the fairgrounds while the county fair was going on.  I slept under the pavilion at the fairgrounds.  I found out that the fair keeps going until midnight and the roosters start crowing at 4:30AM.  A short night's sleep for me.
+
