@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Fine Home"
+date: 2013-08-30 16:15
+comments: true
+categories: seneca-kansas farm-home orphan gong-machar south-sudan refugee
+---
+Beautiful Farm House
+{% img center /images/farm_home.png 640 210 'Farm House, Seneca, Kansas' %}I really liked the looks of this farm house near Seneca, Kansas.  It makes me happy to see people prospering.  
+
+{% img center /images/boy_gong_machar.png 640 480 'Little boy, Gong Machar, South Sudan' %}This little boy is so cute.  I took the picture in 2007 in a village near our school in Nyamlel, South Sudan.  Your donation provides an education for children and a brighter future.  Fifty years from now, well, the possibilities are fun to think about.
+
+Please [Sponsor Claron](http://follow.claront.com/donate/) to help the orphans and other children in South Sudan.
+
