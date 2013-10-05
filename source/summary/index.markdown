@@ -1,0 +1,68 @@
+---
+layout: page
+title: "Summary"
+date: 2013-09-12 17:40
+comments: true
+sharing: true
+footer: true
+---
+
+I walked into Independence, Missouri from Salt Lake City, Utah on Friday, September 6, 2013.  One thousand eighty-three miles and probably a little more.  Having left Salt Lake City, Utah on June 17, 2013, it had taken me eighty-one days.
+
+This Google Map is of the route I took from Salt Lake City, Utah to Kansas City, Missouri. (This is a driving route, not a walking route and close to my actual route, but with small variations due to the limits of Google Maps.)
+
+<iframe width="700" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=202877123428352628257.0004e638686d07874640b&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=39.909736,-103.095703&amp;spn=6.740531,30.761719&amp;z=5&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=202877123428352628257.0004e638686d07874640b&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=39.909736,-103.095703&amp;spn=6.740531,30.761719&amp;z=5&amp;source=embed" style="color:#0000FF;text-align:left">Salt Lake City to Independence Route Taken</a> in a larger map</small>
+
+[Walk Completed News Release](/summary/walk-completed-news-release.html)  See the article about Claron’s walk printed in The Examiner, a newspaper in Independence, Missouri. Printed on September 14, 2013.
+
+See the table of where I was each day: [Location by Date](/summary/location-by-date.html)
+
+I am an unemployed software engineer, maybe retired, so I had a little time on my hands and started thinking about having an adventure.  I started out thinking about some backpacking in the mountains of Utah not far from where I live in Salt Lake City.  Then that grew to hiking the length of the state, which expanded to hiking from my home to Mexico, and why not backpacking the Great Western Trail from Mexico to Canada.  From Mexico to Canada, the trail is 2300 miles and would take eight months.  That seemed to be more time than I wanted to take.  After all, I have a wife, adult children and eleven grandchildren.
+
+I started thinking about a walk that was shorter.  Wow!  I could walk back to Jackson County, Missouri.  Independence, Jackson County, Missouri is a big part of the history of [The Church of Jesus Christ of Latter-day Saints](http://lds.org) and also very important to our future.  Some of my ancestors were members of the Church in Jackson County in the 1830s.  The thought of walking to Jackson County was thrilling to me.
+
+I have known something of the history of the Church in Missouri all of my life.  In 2010, my wife and I spent some days as tourists visiting the Church history sites in Missouri.  Just saying the names of those sites is stirring: Jackson County, Independence, Hans Mill, Clay County, Adam-ondi-Ahman, Far West and Liberty Jail.  After the vacation, I stayed another three weeks on business in the Kansas City area.
+
+With a worthy end point in mind, I turned my attention to questions which needed to be answered.  Do I really want to do it?  How long will it take?  How much will it cost?  Can I physically handle it?  Can I get my wife to support me for the adventure?  Is this something God would have me do?
+
+Early on, it occurred to me that I could tie in a fund raising effort with the walk.  I have been involved helping people who come to Salt Lake City from all over the world, particularly from South Sudan, Africa, for the last twelve years, who have been admitted to the United States as refugees from conflict areas.  I am on the board of directors of a non-profit, Southern Sudan Humanitarian, which helps with orphan care and elementary education in the villages in South Sudan.  I could ask people to sponsor me on the walk to help the children in the villages of South Sudan to have a brighter future.
+
+I was taking a serious look at the walk in January, 2013.  As part of my research, I called the [Independence Visitors Center](http://www.lds.org/locations/independence-visitors-center) of the Church and spoke to Sister Michelle Pyne.  I asked her if she knew of anyone walking from Salt Lake City to the Independence Visitors Center.  She said she had only been there for three weeks, so she would do some research and call me back in two or three days.  She called me back and said that she had checked with some people who should know and it appeared that no one had walked from Salt Lake City to the Independence Visitors Center.
+
+Now I had the worthy destination of Jackson County, a noble cause in championing the orphans, and the opportunity to do something that perhaps no one else in my lifetime had done in walking from Salt Lake City to Independence.  I still had important questions that were not answered for which I continued to work on getting answers.  
+
+I am not a super endurance athlete.  I am not any type of an athlete.  However, I was in reasonably good shape, exercised five or six days per week and thought I should be capable of walking fifteen miles per day, six days per week for three months.  I gradually built up my training effort to where I was running four to six miles per day, six days per week.  A few people walk across the United States from coast to coast each year.  I was able to get some helpful insights from long-distance walkers by doing some research on the internet.
+
+Gradually, my other questions started to get answers.  My wife was supportive.  The idea kept growing on me.  I did a lot of research on equipment and other costs and felt that I could cover the costs.  I went through a spiritual process and felt that the Lord approved of the walk.
+
+Being a backpacker gave me some ideas of the equipment I would need for three months of camping out.  Some of the cross country walkers use some type of cart to carry their stuff, rather than carrying it in a backpack.  I purchased a jogger stroller.  It is a stroller that a mom can use to carry two small children and then push it as she runs to get her exercise.  It has a see-thru zippered cover so that it can be closed up.  The jogger stroller can carry up to one hundred pounds.   I wanted to keep a blog and do some web development along the way, so I took a laptop.  I found some solar panels to keep my smart phone and my laptop powered up.  
+
+The test to lead to a final decision was a three day test walk from my home in Holladay, Utah to Kamas, Utah, forty-eight miles distant.  The test walk came off okay.  I learned that I had to make additional refinements in my equipment.
+
+I changed from talking to my wife and a few close friends that I was thinking about doing the walk to a definite statement, "I am going to walk from Salt Lake City to Jackson County, Missouri."  The most common response was, "You are doing what?"  Most of my friends thought I was crazy.  A few people responded by being very supportive, "That is so cool."
+
+I was in charge of the Twitchell family reunion on June 15, so I could not leave before that.  There was plenty to do from January to the middle of June to get into the best shape, figure out my equipment, figure out the route, do the web development for my blog website, along with the other requirements of my life.  June 17 was set as the departure date.
+
+Monday morning, June 17, my wife drove me and my equipment to my starting point and we had our final hugs goodbye.  I started the walk from the [This is the Place Monument](http://www.thisistheplace.org) on the east edge of Salt Lake City.  The monument and park commemorate the first entry of Brigham Young and his advance party of Mormon pioneers into the valley of the Great Salt Lake on July 24, 1847.  At that time, the valley was outside of the United States and was territory of Mexico.  The Mormons had been driven from the United States and went west as refugees.  God had shown Brigham Young the valley in a vision and he was told that if he planted the Latter-day Saints there, that they would prosper and become a great people.  He was sick with mountain fever and riding in the back of a wagon when they entered the valley.  He told the driver to stop the wagon.  They lifted the cover on the wagon.  Brigham Young sat up, looked at the valley, was satisfied that it was what he had seen in vision and said, "This is the right place.  Drive on."
+
+I chose the title and subtitle for the blog, [follow.claront.com](http://follow.claront.com), of "Thousand Mile Walk, Claron Honors the Refugees."  The fund raising aspect of my walk is to help the orphans and other children in the villages of South Sudan get an education.  The people in the villages were driven from their homes and were refugees, now returning home.  
+
+Some of my South Sudanese refugee friends in Salt Lake City are among those whom the media has referred to as the "Lost Boys of Sudan."  The media has referred to their journey from their villages where they were attacked to a relatively secure refugee camp as a journey of a thousand miles.  The distance of one thousand eighty-three miles walking from Salt Lake City to Independence reflects the thousand mile journey of the Lost Boys of Sudan.  My blog posts ([follow.claront.com](http://follow.claront.com)) express my feelings for refugees, homeless persons, native Americans and others who have and do suffer from violent conflict.
+
+I had my challenges.  The second day out of Salt Lake City, I acquired a blister.  It was hot.  Pushing the cart over the mountain roads was hard.  I had strong headwinds.  Each day I had to find a place to camp which may not be safe or I may not be welcome.  The third night out was cold in the thirty-five degrees range.  I had my doubts.  I was crazy as my friends had told me.
+
+I had my joys.  The scenery was spectacular.  People along the way were mostly kind and friendly to me.  My oldest grandson joined me for three days and then again for five days to walk with me in the first two weeks.  He was using the walk to fulfill requirements for the Backpacking and Hiking Merit badges in the Boy Scouts of America program.  It was fun to have him along and see some of the family as they dropped him off and picked him up.  Having my grandson along and seeing my family the first two weeks gave me a big lift as I established my rhythm for the trip in the first two weeks.  
+
+My grandson finished walking with me in Vernal, Utah.  By then, I had established a rhythm and felt strong.  The third week, I covered 120 miles from Vernal to Craig, Colorado in five days.  It was hot, dry and sparsely populated.  I increased my mileage to get from one place to the next where I could get water and food.  I did as much as thirty-seven miles in one long day, finishing around midnight.  The country had a spectacular, rugged beauty.  I spent the days walking enjoying the scenery, watching out for drowsy drivers, and listening to the audio recording of the scriptures and the Conference talks of The Church of Jesus Christ of Latter-day Saints.  
+
+The walk was a profoundly spiritual experience for me.  I prayed many, many times per day.  Mostly simple prayers like, "Thank you Heavenly Father for that cloud to shade me.  In the name of Jesus Christ.  Amen."  Some were more involved prayers, such as asking for help in choosing my route for the day or week.  I said my morning prayers, evening prayers, blessing on the food, and prayed with my wife on the telephone each night.  I had a lot of solitude, just me, my God and my guardian angels.
+
+Generally, people were very nice to me.  I learned a lot about Utah, Colorado and Kansas.  I have acquired new friends that may be lifelong friends.  Click on the [Archives](http://follow.claront.com/blog/archives/) button in the menu bar at the top of [follow.claront.com](http://follow.claront.com) for the complete list of all the posts for the details of my trip.  
+
+I finished the walk leaving my campsite in Lancaster, Kansas on Wednesday the 4th.  I walked across the Missouri at Atchison, Kansas.  Stopped at the Lewis and Clark State Park in Missouri seven miles from Atchison.  I had supper, a shower and put on clean clothes, and then started walking again at 9:30PM.  I walked to the Kansas City Temple of The Church of Jesus Christ of Latter-day Saints.  Took some pictures and enjoyed the Spirit there and the beauty of the temple and the setting at sunset.  I continued on another six miles to a motel where I was staying the night and ended the long walk at 11:30PM Thursday the 5th.  Seventeen miles from Lancaster to the State Park and fifty-three miles from the State Park to the motel for a total of seventy miles without camping to sleep.
+
+Friday the 6th, I left the motel about noon, walked across the Chouteau Trafficway bridge over the Missouri River and into Independence, Missouri.  I got a rousing reception by the missionaries at the Independence Visitors Center for The Church of Jesus Christ of Latter-day Saints.  
+
+I did it!  By the grace of God, I finished my thousand mile walk, safe, healthy and having had a great experience.  I am resting up for a few days in a hotel in Independence and flying home on Tuesday, September 10.  I am anxious to see my family, get some home cooking and sleep in my own bed.  No longer a homeless person, but richer for the experience.
+
+Please scroll down to the comment section below and make a comment.  Thanks, Claron
