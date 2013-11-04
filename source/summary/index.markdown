@@ -15,7 +15,7 @@ This Google Map is of the route I took from Salt Lake City, Utah to Kansas City,
 
 [Walk Completed News Release](/summary/walk-completed-news-release.html)  See the article about Claron’s walk printed in The Examiner, a newspaper in Independence, Missouri. Printed on September 14, 2013.
 
-See the table of where I was each day: [Location by Date](/summary/location-by-date.html)
+See the table of where I was each day: [Location by Date](/blog/2013/09/08/location-by-date/)
 
 I am an unemployed software engineer, maybe retired, so I had a little time on my hands and started thinking about having an adventure.  I started out thinking about some backpacking in the mountains of Utah not far from where I live in Salt Lake City.  Then that grew to hiking the length of the state, which expanded to hiking from my home to Mexico, and why not backpacking the Great Western Trail from Mexico to Canada.  From Mexico to Canada, the trail is 2300 miles and would take eight months.  That seemed to be more time than I wanted to take.  After all, I have a wife, adult children and eleven grandchildren.
 

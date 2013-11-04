@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 title: "Location by Date"
-date: 2013-09-22 11:53
+date: 2013-09-08 20:54
 comments: true
-sharing: true
-footer: true
+categories: thousand-mile-walk-to-jackson-county-missouri 1000-mile-walk-to-jackson-county-missouri utah-map colorado-map kansas-map missouri-map
 ---
+I had a number of people ask me to show a map of my walk.  I came up with the following table of my location by date.  If you click on the number of the date, it will bring up a map created using the GPS track of my route for the day.  The next column is my miles for the day which is either my best estimate, or the reading from my GPS.  The third column is my camp location for the night.  If I had a blog post that was relevant to that location, then clicking on the location will take you to the matching blog post.  Thanks for following me.
+
 Date	|	  Miles 	|	  Location for the night
 ---------	|	:----------:	|	--------------------------------------------------
 June	|	for day	|	
@@ -96,3 +97,5 @@ Sept.	|		|
 [6](http://www.mapmyfitness.com/workout/378537357)	|	12.8	|	[Hotel in Kansas City, Missouri](http://follow.claront.com/blog/2013/09/06/finish-line/)
 	|		|	
 	|	1281	|	Total miles walked
+
+
