@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Location by Date"
-date: 2013-09-08 20:54
+date: 2013-09-08 10:54
 comments: true
 categories: thousand-mile-walk-to-jackson-county-missouri 1000-mile-walk-to-jackson-county-missouri utah-map colorado-map kansas-map missouri-map
 ---
