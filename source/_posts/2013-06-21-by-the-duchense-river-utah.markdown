@@ -5,6 +5,10 @@ date: 2013-06-21 18:26
 comments: true
 categories: japanese refugees displaced
 ---
+My grandson Trey along road in Uinta Mountains, Utah
+
+{% img center /images/trey_uinta_mtns.png 640 480 'Trey along road in Uinta Mountains' 'Trey along road in Uinta Mountains, Utah State Road 35' %}
+
 I am camping for the night about 30 feet from the Duchesne river.  The quickly flowing river is making that wonderful sound of a rushing stream.  I am about 14 miles from my destination tomorrow of Tabiona, Utah.  
 
 I have had a great time having my 13 year-old grandson, Trey, along the last three days.  It is more fun walking with company, particularly with family, than by yourself.  Trey is big for his age and a strong hiker.  He is using the outing to meet some requirements for the Backpacking and Hiking Merit Badges for Boy Scouts.
