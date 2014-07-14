@@ -7,7 +7,7 @@ categories: refugee ute
 ---
 I met a young man who is a member of the Nothern Ute Tribe.  I will use his last name of Serawop.  He is age 19 and has lived in the Uinta Basin all of his life.  We met at a supermarket in Roosevelt, Utah.  
 
-I asked how his people were doing.  He said, "I am not too sure.  If we think of it in the Basin way [the Uinta Basin of northeast Utah], people don't like us.  We get per kappa and people want to know why we get it.  Just because we get money and we live on the reservation doesn't mean that we are different.  We are just like everyone else."  Serawop has a native side and a white side.  
+{% img left /images/ute_oil_well.png 284 320 'Oil Well on Nothern Ute Tribal Land' %}I asked how his people were doing.  He said, "I am not too sure.  If we think of it in the Basin way [the Uinta Basin of northeast Utah], people don't like us.  We get per kappa and people want to know why we get it.  Just because we get money and we live on the reservation doesn't mean that we are different.  We are just like everyone else."  Serawop has a native side and a white side.  
 
 How are you doing?  "I am doing quite well.  I graduated from high school last year.  I am working in asphalt for a year and then going to college."
 
