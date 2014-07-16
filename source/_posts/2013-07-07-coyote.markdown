@@ -5,4 +5,8 @@ date: 2013-07-07 20:54
 comments: true
 categories: wildlife
 ---
+Yampa River near Maybell, Colorado
+
+{% img center /images/yampa_river_maybell.png 800 382 'Yampa River near Maybell, Colorado' %}
+
 I walked 37 miles on Wednesday, going from Massadona to Maybell.  Maybell was the next town with any services, a store and a park.  Thursday I walked 20 miles.  I saw my first coyote on the trip.  Coyotes are not often spotted in my outdoor experiences.  I saw maybe 20 or more antelope.  Friday, I only had ten miles to walk to Craig and I have stayed here for three days.  I think my legs are rested up.  The land is gradually getting greener and more fertile as I have walked east this week.
