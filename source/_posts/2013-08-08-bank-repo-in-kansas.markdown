@@ -11,7 +11,9 @@ Abandoned home in northwest Kansas
 
 {% img center /images/kansas_welcom.png 640 227 'Welcome to Kansas'  %}You might think that I gave up walking and started driving since I went through Nebraska so fast and into Kansas.  Haigler, Nebraska is in the "3 corners" of Nebraska, Colorado and Kansas.  I only walked 10 miles in Nebraska, spent one rainy night and then into Kansas.
 
+Video at the Kansas state line with Nebraska
 
+<object type="application/x-shockwave-flash" width="400" height="225" data="https://www.flickr.com/apps/video/stewart.swf" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="flashvars" value="intl_lang=en-US&photo_secret=9cf15202c4&photo_id=14397675997"></param><param name="movie" value="https://www.flickr.com/apps/video/stewart.swf"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/video/stewart.swf" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-US&photo_secret=9cf15202c4&photo_id=14397675997" width="400" height="225"></embed></object>
 
 
 
