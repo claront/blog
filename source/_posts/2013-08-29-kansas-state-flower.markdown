@@ -20,3 +20,7 @@ I made The First United Methodist Church [Newsletter](http://www.belleumc.org/ne
 Please comment on this post by clicking on the title at the top of the article [Kansas State Flower](http://follow.claront.com/blog/2013/08/29/kansas-state-flower/).  That will take you to a page just for this article.  Scroll down the page and you will see the comment section where you can add your comment.  Please comment on any of the other posts as well.
 
 Please [Sponsor Claron](http://follow.claront.com/donate/) to help the orphans and other children in South Sudan.
+
+Video of campsite and farmland near Marysville, Kansas
+
+<object type="application/x-shockwave-flash" width="400" height="225" data="https://www.flickr.com/apps/video/stewart.swf" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="flashvars" value="intl_lang=en-US&photo_secret=db443caf1e&photo_id=14584269605"></param><param name="movie" value="https://www.flickr.com/apps/video/stewart.swf"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/video/stewart.swf" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-US&photo_secret=db443caf1e&photo_id=14584269605" width="400" height="225"></embed></object>
