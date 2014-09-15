@@ -18,3 +18,8 @@ Keep checking back with [my blog](http://follow.claront.com) as I will fill in t
 Please comment on this post by clicking on the title at the top of the article [Finish Line](http://follow.claront.com/blog/2013/09/06/finish-line/).  That will take you to a page just for this article.  Scroll down the page and you will see the comment section where you can add your comment.  Please comment on any of the other posts as well.
 
 Please [Sponsor Claron](http://follow.claront.com/donate/) to help the orphans and other children in South Sudan.
+
+Video crossing Missouri River into Kansas City, Jackson County, Missouri.
+
+<object type="application/x-shockwave-flash" width="400" height="225" data="https://www.flickr.com/apps/video/stewart.swf" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="flashvars" value="intl_lang=en-US&photo_secret=f6a2d50f8a&photo_id=14561345796"></param><param name="movie" value="https://www.flickr.com/apps/video/stewart.swf"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/video/stewart.swf" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-US&photo_secret=f6a2d50f8a&photo_id=14561345796" width="400" height="225"></embed></object>
+

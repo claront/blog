@@ -20,7 +20,7 @@ I had two men that were a great help to me in the early stages of the 50 miler. 
 
 I thought a lot about some of the amazing physical feats of my friends who have been refugees.  As a six year old boy, my South Sudanese friend Akol was one of the Lost Boys of Sudan.  He fled for his life from Malual Loc, South Sudan, his home village near Nyamlel where years later he introduced us to the school we now help.  He walked the length of South Sudan to reach a refugee camp in Ethiopia, a journey of six months.  He went more than a day in the heat without water and more than a month without being fed.  Akol is now an accomplished long-haul truck driver in the USA.
 
-Video entering Kansas City, Missouri.  At this point, 24 hours without sleep.
+Video entering Kansas City, Missouri.  Took video after 50 miles of walking and 24 hours without sleep.
 
 <object type="application/x-shockwave-flash" width="400" height="225" data="https://www.flickr.com/apps/video/stewart.swf" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="flashvars" value="intl_lang=en-US&photo_secret=b41d483185&photo_id=14581054281"></param><param name="movie" value="https://www.flickr.com/apps/video/stewart.swf"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/video/stewart.swf" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-US&photo_secret=b41d483185&photo_id=14581054281" width="400" height="225"></embed></object>
 
